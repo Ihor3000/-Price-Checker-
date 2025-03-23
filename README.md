@@ -38,4 +38,3 @@ The data will be saved in `price.csv` like this:
 Made with ❤️ by Ihor Danylenko
 This project is part of my learning path and portfolio.
 Feel free to give feedback or reach out if you'd like to collaborate!
- 
