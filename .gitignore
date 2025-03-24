@@ -50,4 +50,3 @@ pytest_cache/
 
 # CSV and other generated output
 price.csv
-price-local-copy.csv
