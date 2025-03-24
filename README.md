@@ -30,13 +30,6 @@ Or simply run the shell script:
 
 ---
 
-Or simply run the shell script:
-
-```bash
-./run_price_checker.sh
-
----
-
 ## 📄 Output
    
 The data will be saved in `price.csv` like this:
@@ -50,3 +43,9 @@ The data will be saved in `price.csv` like this:
 Made with ❤️ by Ihor Danylenko
 This project is part of my learning path and portfolio.
 Feel free to give feedback or reach out if you'd like to collaborate! ✉️
+
+## 📫 Contact
+
+Made with ❤️ by Ihor Danylenko  
+Feel free to open an issue or [contact 
+me](mailto:danylenkoigor25@gmail.com)!
