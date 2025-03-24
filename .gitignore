@@ -17,3 +17,4 @@ eggs/
 lib/
 lib64/
 .DS_Store
+price.csv
